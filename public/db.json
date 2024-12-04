@@ -1,0 +1,30 @@
+{
+  "students": [
+    {
+      "id": "b4a2",
+      "fname": "Rishabh",
+      "lname": "Pant",
+      "address": "Karve Nagar",
+      "gender": "male",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "dob": "17 June 1990",
+      "pincode": "411052",
+      "course": "React",
+      "email": "rishabh@gmail.com"
+    },
+    {
+      "id": "6a7f",
+      "fname": "mayur",
+      "lname": "rajput",
+      "address": "Karve Nagar",
+      "gender": "male",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "dob": "17 June 1990",
+      "pincode": "411052",
+      "course": "Cricket",
+      "email": "mayurrajput8486@gmail.com"
+    }
+  ]
+}
